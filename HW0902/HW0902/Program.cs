@@ -54,7 +54,7 @@ double[] doubleArr = new double[arr_len];
 for (int i = 0; i < arr_len; i++)
 {
     int rand_1 = random.Next(-100, 100 + 1);
-    int rand_2 = random.Next(-100, 100 + 1);
+    int rand_2 = random.Next(1, 100 + 1); // Чтобы не было деления на 0
     doubleArr[i] = (double)rand_1 / rand_2;
 }
 
