@@ -1,0 +1,15 @@
+D:\Courses\GeekBrains\FullStack\gb_cs_hw\HW0902\HW0902\bin\Debug\net6.0\HW0902.exe
+D:\Courses\GeekBrains\FullStack\gb_cs_hw\HW0902\HW0902\bin\Debug\net6.0\HW0902.deps.json
+D:\Courses\GeekBrains\FullStack\gb_cs_hw\HW0902\HW0902\bin\Debug\net6.0\HW0902.runtimeconfig.json
+D:\Courses\GeekBrains\FullStack\gb_cs_hw\HW0902\HW0902\bin\Debug\net6.0\HW0902.dll
+D:\Courses\GeekBrains\FullStack\gb_cs_hw\HW0902\HW0902\bin\Debug\net6.0\HW0902.pdb
+D:\Courses\GeekBrains\FullStack\gb_cs_hw\HW0902\HW0902\obj\Debug\net6.0\HW0902.csproj.AssemblyReference.cache
+D:\Courses\GeekBrains\FullStack\gb_cs_hw\HW0902\HW0902\obj\Debug\net6.0\HW0902.GeneratedMSBuildEditorConfig.editorconfig
+D:\Courses\GeekBrains\FullStack\gb_cs_hw\HW0902\HW0902\obj\Debug\net6.0\HW0902.AssemblyInfoInputs.cache
+D:\Courses\GeekBrains\FullStack\gb_cs_hw\HW0902\HW0902\obj\Debug\net6.0\HW0902.AssemblyInfo.cs
+D:\Courses\GeekBrains\FullStack\gb_cs_hw\HW0902\HW0902\obj\Debug\net6.0\HW0902.csproj.CoreCompileInputs.cache
+D:\Courses\GeekBrains\FullStack\gb_cs_hw\HW0902\HW0902\obj\Debug\net6.0\HW0902.dll
+D:\Courses\GeekBrains\FullStack\gb_cs_hw\HW0902\HW0902\obj\Debug\net6.0\refint\HW0902.dll
+D:\Courses\GeekBrains\FullStack\gb_cs_hw\HW0902\HW0902\obj\Debug\net6.0\HW0902.pdb
+D:\Courses\GeekBrains\FullStack\gb_cs_hw\HW0902\HW0902\obj\Debug\net6.0\HW0902.genruntimeconfig.cache
+D:\Courses\GeekBrains\FullStack\gb_cs_hw\HW0902\HW0902\obj\Debug\net6.0\ref\HW0902.dll
